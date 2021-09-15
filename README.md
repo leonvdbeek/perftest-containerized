@@ -17,4 +17,4 @@ This will output the details of the run directly in the terminal because of the 
 3. Run: `./perftest`
 
 ### DockerHub
-Link to [DockerHub](https://hub.docker.com/repository/docker/leonvdbeek/perftest)
+Link to [DockerHub](https://hub.docker.com/r/leonvdbeek/perftest)
